@@ -122,7 +122,7 @@ This endpoint allows you to create a new manafucture row. You must provide a JSO
 
 ##Examples
 Here's an examples of using the API 
-![Alt text](take1.jpg 
+![Alt text](take1.jpg) 
 ![Alt text](take2.jpg )
 ![Alt text](take3.jpg )
 ![Alt text](take4.jpg )
@@ -130,11 +130,3 @@ Here's an examples of using the API
 
 
 
-## Contributing
-
-- Guidelines for contributing to the project.
-- Code of conduct.
-
-## License
-
-- Information on the project's license.
